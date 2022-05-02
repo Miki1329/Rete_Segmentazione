@@ -153,3 +153,8 @@ cython_debug/
 *.nii
 *.nrrd
 *.npy
+*.png
+*.0
+*.1
+*.2
+*.3
